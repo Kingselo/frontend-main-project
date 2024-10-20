@@ -254,8 +254,8 @@ main {
         width:  35px;
         height: 35px;
         border-radius: 50%;
-        /* display: flex; */
-        justify-content: center;
+        display: none;
+        justfy-content: center;
         align-items: center;
         cursor: pointer;
 
